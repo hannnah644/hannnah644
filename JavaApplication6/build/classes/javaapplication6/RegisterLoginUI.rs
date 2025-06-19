@@ -1,0 +1,12 @@
+RegisterLoginUI$UIConfig$2
+RegisterLoginUI$1
+RegisterLoginUI$UIConfig$1
+RegisterLoginUI$FloatingInputField$2
+RegisterLoginUI$UIConfig
+RegisterLoginUI$FloatingInputField$3
+RegisterLoginUI$FloatingInputField$1
+RegisterLoginUI$FloatingInputField
+RegisterLoginUI$RoundBorder
+RegisterLoginUI
+javaapplication6.JavaApplication6
+RegisterLoginUI$2
